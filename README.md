@@ -1,3 +1,5 @@
+![Logos](SpectrumSymphony_300x300x300_light.png)
+
 # Name
 
 This repository demonstrates integration of IBM&reg; Spectrum Symphony Community Edition with RedHat Openshift.
